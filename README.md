@@ -12,7 +12,7 @@
 
 This README has been taken from Bloxstrap Labs, Credits to them.
 
-Made in WinForms .NET Framework 4.8 by **@truly.gigzaz** and **@trully.god**
+Made in WinForms .NET Framework 4.8 by **@truly.gigzaz** and **@trulyy.god**
 </div>
 
 ----
