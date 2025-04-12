@@ -2,7 +2,7 @@
 > The only official places to download RoPro Launcher is our Discord server. Any other websites/servers offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
-    <img src="https://i.postimg.cc/c4fkG1Fn/image-Photoroom-5.png" width="420">
+    <img src="https://i.postimg.cc/9X1ysLXB/image-Photoroom-8.png" width="420">
 </p>
 <div align="center">
 
