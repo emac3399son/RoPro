@@ -8,7 +8,7 @@
 
 ![License][shield-repo-license]
 ![Version][shield-repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
+![shield-repo-latest]
 
 This README has been taken from Bloxstrap Labs, Credits to them.
 
