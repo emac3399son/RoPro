@@ -49,6 +49,6 @@ RoPro Launcher currently uses WinForms .NET Framework 4.8 by Microsoft Corporati
 
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/badge/release-V1-blue
+[shield-repo-releases]: https://img.shields.io/badge/release_V1-blue
 [shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=7a39fb
 [shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
