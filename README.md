@@ -7,7 +7,6 @@
 <div align="center">
 
 ![License][shield-repo-license]
-![Version][shield-repo-latest]
 ![shield-repo-releases]
 
 This README has been taken from Bloxstrap Labs, Credits to them.
